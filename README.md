@@ -1,4 +1,9 @@
-# Welcome!
+## 👤 About Me
+Hi, I’m Juan José 👋 — an industrial designer & systems engineer who builds across **hardware**, **software**, and **ideas** to solve messy problems with elegant, hands-on solutions. 2019's Global Grad Show **#ProgresPrize** winner with my drone Poleno.
+
+I mix **AI/ML**, **web development**, **embedded systems**, and **data analytics** with a love for good design to come up with the best possible solution. Always curious, always prototyping — aiming to reinvent the present and design the future.  
+
+---
 
 ## 💻 Core Tech Stack
 **Web**  
@@ -52,12 +57,7 @@
 
 ---
 
-## 👤 About Me
-Hi, I’m Juan José 👋 — an industrial designer & systems engineer who builds across **hardware**, **software**, and **ideas** to solve messy problems with elegant, hands-on solutions. 2019's Global Grad Show **#ProgresPrize** winner with my drone Poleno.
 
-I mix **AI/ML**, **web development**, **embedded systems**, and **data analytics** with a love for good design to come up with the best possible solution. Always curious, always prototyping — aiming to reinvent the present and design the future.  
-
----
 
 ## 🚀 My Projects
 - **[TableMind](https://github.com/SpanishHans/Tablemind)** – AI-powered Excel assistant that works row-by-row to automate spreadsheet workflows.
@@ -92,9 +92,5 @@ I mix **AI/ML**, **web development**, **embedded systems**, and **data analytics
 
 ## ⚡ Fun Fact
 I call my projects **“functional mischief”** — practical tools that make people smile when they realize what they can do.
-
----
-
----
 
 [![](https://visitcount.itsvg.in/api?id=SpanishHans&icon=0&color=12)](https://visitcount.itsvg.in)
